@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+git commit -m "0x01 Python Async Function"
+git push
+
